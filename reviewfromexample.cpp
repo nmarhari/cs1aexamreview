@@ -184,7 +184,7 @@ initialization - explicitly assigning initial value to a variable
 
 block - sequence of statements enclosed in curly brackets
 
-ternary operator - operator accepting 3 operands. ex: c = (a < b) ? a : b;
+conditional (ternary) operator - operator accepting 3 operands. ex: c = (a < b) ? a : b;
 
 increment - increase by 1 ++
 
