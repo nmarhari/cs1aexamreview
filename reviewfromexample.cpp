@@ -113,7 +113,7 @@ while (i < 10) {
 question 4:
 
 "Break" statements exit the innermost loop. "Continue" ends the execution of the body and re-evaluates the loop expression.
-output: 0 1 2 3 4 5 
+output: 0 1 2 3 4 5 6
 
 If break is replaced by continue the output will be: 0 1 2 3 4 5 10
 This is because if it is replaced by continue it will circle back to the loop expression and then go on, making it skip over the cout << i << " ";
