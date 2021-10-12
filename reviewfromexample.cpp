@@ -57,7 +57,7 @@ int main() {
 	int a = 3;
 
 	if (a > 0) {
-		a = 10;							THIS WILL CAUSE OUTPUT TO BE "3 3"
+		a = 10;							THIS WILL CAUSE OUTPUT TO BE "10 10"
 		cout << a << " ";
 
 	}
