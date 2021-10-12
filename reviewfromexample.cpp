@@ -164,12 +164,33 @@ if statement if "number" is equal to the value of whichever element it is at.
 
 -
 
+--- some vocab ---
 
+compiler - translates high level to low level language
 
+include directive - tells compiler where to find certain items about the program
 
+statement - single unit of execution, each statement ends with ;
 
+semantics - meaning of programming constructs
 
+variable - named memory location
 
+<< - insertion operator
+
+>> - extraction operator
+
+initialization - explicitly assigning initial value to a variable
+
+block - sequence of statements enclosed in curly brackets
+
+ternary operator - operator accepting 3 operands. ex: c = (a < b) ? a : b;
+
+increment - increase by 1 ++
+
+decrement - decrease by 1 --
+
+multiple inclusion protection - #ifndef #define x_hpp #endif
 
 
 
