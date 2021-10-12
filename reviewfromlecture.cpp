@@ -84,6 +84,8 @@ d = (a++) - (++b);
  // if the first expression is true, the second expression is executed.
  // if first expression is false, the third expression is executed
  
+// also can be considered a conditional operator.
+
  -
  
  string s1 = "mask", s2 = "mad";
