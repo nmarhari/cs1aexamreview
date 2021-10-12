@@ -172,7 +172,6 @@ d = (a++) - (++b);
    0     0 
    1     0
    1     1    //exits second for loop
-   2     1
    2     0
    2     1
    2     2    //exits second for loop
