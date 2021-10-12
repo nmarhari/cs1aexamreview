@@ -309,10 +309,16 @@ s1 = s1.insert (4, " ");
 
 -
 
-//unfinished
 for (int i=0; i < 10; i++)
 	cout << i << ' ';
-// unfinished
+
+//convert this into a while loop.
+
+int i = 0
+while (i < 10){ 
+	cout << i << ' ';
+	i++;
+}
 
 -
 
@@ -340,7 +346,7 @@ while (i < 4){
 //output? 
 // 0   1   2   4
 
-//continue will skip the following statement
+//continue will end execution of the body and re evaluate the loop expression
 // break will exit the loop
 
 -
