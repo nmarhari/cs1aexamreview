@@ -81,8 +81,8 @@ d = (a++) - (++b);
  
  // what is the name of this expression? 
  // ternary expression.
- // if the first expression is true, the second expression is executed.
- // if first expression is false, the third expression is executed
+ // if the first expression is true, the second expression is evaluated
+ // if first expression is false, the third expression is evaluated
  
 // also can be considered a conditional operator.
 
