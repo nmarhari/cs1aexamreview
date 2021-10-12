@@ -27,7 +27,7 @@ int main() {
 
 */
 
-/* 
+/*                                               --  VARIABLE SCOPE EXAMPLE  --
 #include <iostream>
 
 using namespace std;
@@ -66,8 +66,9 @@ int main() {
 }
 
 */
-
+								
 /*
+				-- example exam --
 
 
 question 1:
