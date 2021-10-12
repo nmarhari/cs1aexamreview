@@ -227,6 +227,10 @@ int add (int a, int b) {
 // what is another name for the int add with the return statement? function definition.
 // may ask what is difference between function definition and function declaration
 
+//function definition provides the actual body of the function.
+
+//function declaration provides basic attributes, definition provides all the details for those attributes
+
 -
 
 int update (int a, int &b);
